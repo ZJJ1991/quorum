@@ -1,0 +1,24 @@
+{
+    "validator1": {
+        "Address": "0x4bee2ff2189451b46aef3d55050cb6e595c12471",
+        "Nodekey": "833af2136ea84d84e408be0bb0cdd75598e4cb5d7db3e287bd18249e921f762e",
+        "NodeInfo": "enode://a9978c12f59e640d71a90b87223966c97d43a3b87fc6244ad975de0d1495617b4f42ba7b65a785e358497d6b3fa33ab9489ba23acf5f53599f3b97a67617e957@0.0.0.0:30303?discport=0"
+    },
+    "validator2": {
+        "Address": "0x5e0da7dc2a48acbd27c7204a1f75d352c09537f9",
+        "Nodekey": "4e5f65e976d9b31f9208feadb2885014edd57294965026f52d41db5be0ea4df5",
+        "NodeInfo": "enode://dbfccd8077b01953d80a73ead0db4ecd74c2d693da8d50cea698237eaa1fd45e270b989467dc8d661e1e85f3e86402394d8101aea9bc76751c8a1bcb80a8f588@0.0.0.0:30304?discport=0"
+    },
+    "validator3":
+    {
+        "Address": "0x8f23fea48d9bbad633b51d1036c36334b274ae6e",
+        "Nodekey": "4a4a7ae118cb41d90c91496ef084c1e844e644f9d2c117313f6eae443c5fcf3c",
+        "NodeInfo": "enode://a5072b525270ccf702f4215533cdae7d16fef52a0757f3649de6b72dfd41b92470c201dfd4742206592fd4bcfa198adc96b3c9d3870a42c8fcdd60925e7f06b5@0.0.0.0:30305?discport=0"
+    },
+    "validator4":
+    {
+        "Address": "0xd98bc4e83efb4affd308d64e8d20d7df402571bc",
+        "Nodekey": "c9792118527dd08fcd3359a8a13b28c6650cba58200cf12d3c11c6a4de249978",
+        "NodeInfo": "enode://bcbcd5446757eae518ddeddc7d7222d2305c127405bba962ab16fd973f9eed07adafdba41d3c5197bc04d67affbcc03daf0c0da9612e471296178a30ca56e756@0.0.0.0:30306?discport=0"
+    }
+}
